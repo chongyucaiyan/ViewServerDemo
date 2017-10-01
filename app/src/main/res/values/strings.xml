@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">ViewServerDemo</string>
+
+    <string name="main_button">Button</string>
 </resources>
